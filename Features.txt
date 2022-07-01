@@ -1,0 +1,7 @@
+Features:
+1. Looping with Repetition Control Structures
+2. Nested Loops
+3. Branching with Selection Control Structures
+4. File I/O
+5. Using Multiple Classes
+6. One-dimensional arrays

@@ -1,0 +1,21 @@
+Sample CPUs:
+
+Valid CPUs:
+i7-6700K
+i5-6500
+i7-7700K
+i9-9900KS
+i7-3770K
+
+Invalid CPUs (Intel CPUs that are too old, non Intel Core CPUs, 
+laptop/mobile Intel CPUs or Intel Core-X/Intel Core Extreme Edition CPUs):
+
+R5-3600
+R9-5950X
+E6700
+E8400
+i7-5960X
+i9-9980XE
+i7-3930K
+i7-640M
+i5-1030NG7
